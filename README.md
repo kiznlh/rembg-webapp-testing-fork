@@ -7,7 +7,7 @@ Watch the [tutorial](https://youtu.be/cw34KMPSt4k) on YouTube
 ```
 cd webui
 npm i
-npm run dev
+npm run build
 cd ..
 
 pip install -r requirements.txt
